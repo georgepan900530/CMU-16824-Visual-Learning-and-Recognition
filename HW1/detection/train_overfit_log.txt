@@ -1,0 +1,36 @@
+Good to go!
+False
+True
+False
+False
+Loading data...
+Loading a small subset for overfitting.
+Training model...
+[Iter 0][loss: 3.267][loss_cls: 0.699][loss_box: 2.138][loss_ctr: 0.430]
+[Iter 10][loss: 4.483][loss_cls: 0.966][loss_box: 2.924][loss_ctr: 0.593]
+[Iter 20][loss: 5.048][loss_cls: 1.111][loss_box: 3.259][loss_ctr: 0.678]
+[Iter 30][loss: 4.021][loss_cls: 1.162][loss_box: 2.129][loss_ctr: 0.729]
+[Iter 40][loss: 4.039][loss_cls: 1.171][loss_box: 2.150][loss_ctr: 0.719]
+[Iter 50][loss: 3.870][loss_cls: 1.112][loss_box: 2.027][loss_ctr: 0.730]
+[Iter 60][loss: 3.795][loss_cls: 0.941][loss_box: 2.134][loss_ctr: 0.721]
+[Iter 70][loss: 3.768][loss_cls: 0.959][loss_box: 2.087][loss_ctr: 0.722]
+[Iter 80][loss: 3.578][loss_cls: 1.019][loss_box: 1.837][loss_ctr: 0.722]
+[Iter 90][loss: 3.201][loss_cls: 0.660][loss_box: 1.819][loss_ctr: 0.722]
+[Iter 100][loss: 3.072][loss_cls: 0.682][loss_box: 1.669][loss_ctr: 0.721]
+[Iter 110][loss: 2.981][loss_cls: 0.658][loss_box: 1.599][loss_ctr: 0.723]
+[Iter 120][loss: 2.954][loss_cls: 0.608][loss_box: 1.626][loss_ctr: 0.721]
+[Iter 130][loss: 2.886][loss_cls: 0.632][loss_box: 1.537][loss_ctr: 0.718]
+[Iter 140][loss: 3.130][loss_cls: 0.760][loss_box: 1.657][loss_ctr: 0.713]
+[Iter 150][loss: 3.093][loss_cls: 0.609][loss_box: 1.771][loss_ctr: 0.713]
+[Iter 160][loss: 3.023][loss_cls: 0.608][loss_box: 1.704][loss_ctr: 0.711]
+[Iter 170][loss: 2.960][loss_cls: 0.608][loss_box: 1.644][loss_ctr: 0.709]
+[Iter 180][loss: 2.794][loss_cls: 0.550][loss_box: 1.535][loss_ctr: 0.709]
+[Iter 190][loss: 2.828][loss_cls: 0.547][loss_box: 1.572][loss_ctr: 0.709]
+[Iter 200][loss: 2.739][loss_cls: 0.544][loss_box: 1.487][loss_ctr: 0.709]
+[Iter 210][loss: 2.752][loss_cls: 0.542][loss_box: 1.501][loss_ctr: 0.709]
+[Iter 220][loss: 2.708][loss_cls: 0.536][loss_box: 1.463][loss_ctr: 0.709]
+[Iter 230][loss: 2.677][loss_cls: 0.534][loss_box: 1.434][loss_ctr: 0.708]
+[Iter 240][loss: 2.682][loss_cls: 0.535][loss_box: 1.439][loss_ctr: 0.708]
+Finished training, saving model.
+Successfully finished training.
+Training complete!
